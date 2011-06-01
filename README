@@ -1,0 +1,9 @@
+Erlang Decorators
+=================
+An early implementation of python style decorators for erlang.
+
+
+TODO
+====
+* Allow custom named decorators for nicer syntax
+* Allow passing arguments to decorators
